@@ -10,3 +10,5 @@ we created the project using eclipse IDE, named the project iGUZO-Multi-Agent-Ja
 ## Reference  
 Integration of IoT Platform and JADE Agent Infrastructure https://iot4industry.salzburgresearch.at/wp-content/uploads/FINAL_IoT_Industry_D.1_December-2015.pdf
 
+Developing Multi-Agent Systems with JADE - Book 
+
